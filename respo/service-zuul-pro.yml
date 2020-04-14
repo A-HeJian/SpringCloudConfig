@@ -6,3 +6,6 @@ zuul:
     second:
       path: /api-f/**
       serviceId: service-feign
+ribbon:
+  eureka:
+    enabled: false
