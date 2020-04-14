@@ -12,7 +12,3 @@ zuul:
 ribbon:
   eureka:
     enabled: false
-
-service-feign:
-  ribbon:
-    listOfServers: http://localhost:7002/,http://localhost:7003/
