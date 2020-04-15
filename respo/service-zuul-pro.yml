@@ -6,4 +6,5 @@ zuul:
     second:
       path: /api-f/**
       serviceId: service-feign
-hj123
+server:
+  port: hejian
